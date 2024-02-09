@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "utils"
+		},
+		{
+			"path": "FileNet_api"
+		},
+		{
+			"path": "FileNet_datatabse"
+		},
+		{
+			"path": "FileNet_service"
+		},
+		{
+			"path": "OpenText_api"
+		},
+		{
+			"path": "OpenText_service"
+		},
+		{
+			"path": "OpenText_database"
+		},
+		{
+			"path": "Alfresco_api"
+		},
+		{
+			"path": "Alfresco_database"
+		},
+		{
+			"path": "Alfresco_service"
+		},
+		{
+			"path": "main"
+		},
+		{
+			"path": "MessageBroker"
+		},
+		{
+			"path": "OpenTelemetry"
+		}
+	]
+}
